@@ -1,0 +1,5 @@
+.venv
+.DS_Store
+*.pth
+/data/dump
+/weights/*.zip
